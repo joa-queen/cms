@@ -1,0 +1,15 @@
+@primary: #EA4748;
+
+.transition-duration(@duration: 0.2s) {
+	-moz-transition-duration: @duration;
+	-webkit-transition-duration: @duration;
+	-o-transition-duration: @duration;
+	transition-duration: @duration;
+}
+.transition(@args: all 0.2s) {
+	-webkit-transition: @args;
+	-moz-transition: @args;
+	-o-transition: @args;
+	-ms-transition: @args;
+	transition: @args;
+}

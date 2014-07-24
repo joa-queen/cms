@@ -1,0 +1,8 @@
+@font-face{font-family:'Merriweather Sans';font-style:normal;font-weight:400;src:local('Merriweather Sans Regular'),local('MerriweatherSans-Regular'),url(/fonts/AKu1CjQ4qnV8MUltkAX3sL2aU247V0zTzydO4RoO9Ok.woff) format('woff');}@font-face{font-family:'Merriweather Sans';font-style:normal;font-weight:700;src:local('Merriweather Sans Bold'),local('MerriweatherSans-Bold'),url(/fonts/6LmGj5dOJopQKEkt88GowQfd-b-I5PxxcmB4_-MNcqw.woff) format('woff');}@font-face{font-family:'Merriweather Sans';font-style:italic;font-weight:400;src:local('Merriweather Sans Italic'),local('MerriweatherSans-Italic'),url(/fonts/3Mz4hOHzs2npRMG3B1ascf0KIgDhPIHb_R-SWdtqte8.woff) format('woff');}@font-face{font-family:'Merriweather Sans';font-style:italic;font-weight:700;src:local('Merriweather Sans Bold Italic'),local('MerriweatherSans-BoldItalic'),url(/fonts/nAqt4hiqwq3tzCecpgPmVYM8pfYvjMoOxygpzLVILAs.woff) format('woff');}body{background-color:#000;}
+a{color:#ea4748;}
+#loading,.dialogcontainer{display:none;}
+.container{background-color:#fff;width:960px;min-height:1000px;padding:30px 50px;}
+header{margin-bottom:40px;}header ul.nav{font-family:'Merriweather Sans',Arial,Helvetica,sans-serif;font-size:13px;font-weight:bold;color:#696969;text-transform:uppercase;margin-top:30px;border-bottom:1px solid #ea4748;}header ul.nav li{float:left;margin:0 1.5em;}header ul.nav li:first-child{margin-left:0;}
+header ul.nav li:last-child{margin-right:0;}
+header ul.nav li a{color:#696969;border-bottom:4px solid #fff;padding-bottom:7px;-webkit-transition:all 0.4s;-moz-transition:all 0.4s;-o-transition:all 0.4s;-ms-transition:all 0.4s;transition:all 0.4s;}header ul.nav li a:after{content:".";}
+header ul.nav li a:hover{border-bottom:4px solid #ea4748;background-color:transparent;}

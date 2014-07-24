@@ -1,0 +1,11 @@
+{
+	"_sarasa": {
+		"bundle": "Sarasa",
+		"prefix": "_sarasa"
+	},
+	"home": {
+		"url"       : "",
+		"bundle"    : "Home",
+		"controller": "Main"
+	}
+}

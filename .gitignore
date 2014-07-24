@@ -1,0 +1,9 @@
+error_log
+*~
+*.tpl.php
+*.sublime-project
+*.sublime-workspace
+logs/
+vendor/
+!public/css/vendor/
+public/res/
